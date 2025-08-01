@@ -324,35 +324,35 @@ function startPhotoShow() {
     // Foto lokal dari folder images
     const photos = [{
             text: '🐥',
-            image: './images/photo1.jpg'
+            image: './photo1.jpg'
         },
         {
             text: '🦄',
-            image: './images/photo2.jpg'
+            image: './photo2.jpg'
         },
         {
             text: '🎀',
-            image: './images/photo3.jpg'
+            image: './photo3.jpg'
         },
         {
             text: '💌',
-            image: './images/photo4.jpg'
+            image: './photo4.jpg'
         },
         {
             text: '🎁',
-            image: './images/photo5.jpg'
+            image: './photo5.jpg'
         },
         {
             text: '⛅',
-            image: './images/photo6.jpg'
+            image: './photo6.jpg'
         },
         {
             text: '🌝',
-            image: './images/photo7.jpg'
+            image: './photo7.jpg'
         },
         {
             text: '✨',
-            image: './images/photo8.jpg'
+            image: './photo8.jpg'
         }
     ];
 
