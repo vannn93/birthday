@@ -625,7 +625,7 @@ function loadSpotifyPlaylist(playlistNumber) {
             // Ganti dengan playlist ketiga kamu
             embedUrl: 'https://open.spotify.com/embed/playlist/4zYbq9Ui2yuYyJqsCMQvui?utm_source=generator',
             name: 'Happy Memories',
-            description: 'ini playlist k 🌟'
+            description: 'ini playlist kuu 🌟'
         }
     };
 
