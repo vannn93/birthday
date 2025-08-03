@@ -611,7 +611,7 @@ function loadSpotifyPlaylist(playlistNumber) {
     const playlists = {
         1: {
             // Ganti dengan playlist pertama kamu
-            embedUrl: 'https://open.spotify.com/embed/playlist/37i9dQZF1DWYtQSOiZF6hj?si=0b945793c2934ba1',
+            embedUrl: 'https://open.spotify.com/embed/playlist/37i9dQZF1DWYtQSOiZF6hj?utm_source=generator',
             name: 'Birthday Special Mix',
             description: 'Lagu-lagu spesial untuk hari istimewa kamu ✨'
         },
